@@ -1,1 +1,177 @@
+*{
+    margin: 0 auto;
+}
+.principal{
+
+}
+body{
+    background: #dedede;
+}
+
+.topo{
+width: 100%;
+height: 60px;
+background: #0e0374;
+position:absolute;
+}
+.logo{
+color:#dedede;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+position: absolute;
+left: 3%;
+top: 15px;
+}
+.menu{
+position: absolute;
+font-size: 20px;
+color:white;
+top: 20px;
+right: 5%;
+}
+.corpo{
+width: 1200px;
+height: 700px;
+background:white;
+left: 19%;
+position: absolute;
+margin-top: 60px;
+}
+.corpo2{
+    width: 1200px;
+    height: 700px;
+    background:rgb(25, 141, 150);
+    left: 19%;
+    position: absolute;
+    margin-top: 60px;
+    }
+.rodape{
+width: 100%;
+height: 60px;
+background: #0e0374;
+margin-top: 800px;
+position: absolute;
+color: #dedede;
+text-align: center;
+
+}
+.cursos{
+    background: #c3c3c3;
+    width: 95% ;
+    margin-left: 5px;
+  position: relative;
+  padding: 10px;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
+    color:#0e0374;
+}
+.texto{
+    margin-left: 30px;
+}
+.contato{
+   margin-left: 20px; 
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: 0rgb(65, 69, 124);
+}
+img{
+    width:15px;
+    position: absolute;
+}
+
+a:visited{
+    color: #ffffff;
+}
+a.link{
+    color: #ff0000;
+    text-decoration: none; /* Decoração do link Obs.: Sublinhado */
+}
+a:hover{
+    color: #7d7d7d;
+}
+a:active{
+    color: orange;
+
+}
+.formulario{
+    width:300px;
+    height: 400px;
+    background: #6a9cac;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 120px;
+}
+
+.formataform{
+    border-radius: 5px;
+    border-style:none ;
+    background: #dfdfdf;
+    height: 20px;
+}
+.formatacamposdetexto{
+    border-radius: 5px; /*Arrendondar os cantos*/
+    border-style: none;
+    background: #dfdfdf;
+    height: 20px;
+    font-size: 14px;
+}
+.formatatextarea{
+    border-radius: 5px; /*Arrendondar os cantos*/
+    border-style: none;
+    background: #dfdfdf;
+    height: 80px;
+    font-size: 14px;
+}
+
+button{
+    width: 90%;
+    background: #210d85;
+    color: #ffffff;
+    height: 30px;
+    border-radius: 7px;
+    border-style: none;
+
+}
+
+.sobre{
+    width: 900px;
+    height: 500px;
+    background: #dddcdc;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 145px;
+    margin-top: 100px; 
+}
+.txtsobre{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.cursoss{
+    width: 1100px;
+    height: 650px;
+    background: #dddcdc;
+    position: absolute;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 30px; 
+}
+.txtcursoss{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.imgmulher{
+    width: 1000px;
+    height: 700px;
+}
+
+
+
 
